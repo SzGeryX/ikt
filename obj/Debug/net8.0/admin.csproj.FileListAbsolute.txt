@@ -1,0 +1,14 @@
+C:\Users\Gergo\source\repos\admin\bin\Debug\net8.0\admin.exe
+C:\Users\Gergo\source\repos\admin\bin\Debug\net8.0\admin.deps.json
+C:\Users\Gergo\source\repos\admin\bin\Debug\net8.0\admin.runtimeconfig.json
+C:\Users\Gergo\source\repos\admin\bin\Debug\net8.0\admin.dll
+C:\Users\Gergo\source\repos\admin\bin\Debug\net8.0\admin.pdb
+C:\Users\Gergo\source\repos\admin\obj\Debug\net8.0\admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gergo\source\repos\admin\obj\Debug\net8.0\admin.AssemblyInfoInputs.cache
+C:\Users\Gergo\source\repos\admin\obj\Debug\net8.0\admin.AssemblyInfo.cs
+C:\Users\Gergo\source\repos\admin\obj\Debug\net8.0\admin.csproj.CoreCompileInputs.cache
+C:\Users\Gergo\source\repos\admin\obj\Debug\net8.0\admin.dll
+C:\Users\Gergo\source\repos\admin\obj\Debug\net8.0\refint\admin.dll
+C:\Users\Gergo\source\repos\admin\obj\Debug\net8.0\admin.pdb
+C:\Users\Gergo\source\repos\admin\obj\Debug\net8.0\admin.genruntimeconfig.cache
+C:\Users\Gergo\source\repos\admin\obj\Debug\net8.0\ref\admin.dll
