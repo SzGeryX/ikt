@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gergo\\source\\repos\\admin\\admin.csproj": {}
+    "C:\\Users\\Gergo\\source\\repos\\inftav\\admin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gergo\\source\\repos\\admin\\admin.csproj": {
+    "C:\\Users\\Gergo\\source\\repos\\inftav\\admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gergo\\source\\repos\\admin\\admin.csproj",
+        "projectUniqueName": "C:\\Users\\Gergo\\source\\repos\\inftav\\admin.csproj",
         "projectName": "admin",
-        "projectPath": "C:\\Users\\Gergo\\source\\repos\\admin\\admin.csproj",
+        "projectPath": "C:\\Users\\Gergo\\source\\repos\\inftav\\admin.csproj",
         "packagesPath": "C:\\Users\\Gergo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gergo\\source\\repos\\admin\\obj\\",
+        "outputPath": "C:\\Users\\Gergo\\source\\repos\\inftav\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gergo\\AppData\\Roaming\\NuGet\\NuGet.Config",

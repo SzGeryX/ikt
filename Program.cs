@@ -757,17 +757,17 @@ internal class Program
     class Gpu : Component
     {
         public string vram { get; set; }
-        public string connenction { get; set; }
+        public string connection { get; set; }
 
         public Gpu() { }
         public Gpu(string[] param) : base(param) //param: type, name, price, desc, imgSrc, vram, connection
         {
             this.vram = param[5];
-            this.connenction = param[6];
+            this.connection = param[6];
         }
         public string Stringify()
         {
-            return $"Name: {this.title}|Type: {this.type}|Price: {this.price}|Vram: {this.vram}|Connection: {this.connenction}";
+            return $"Name: {this.title}|Type: {this.type}|Price: {this.price}|Vram: {this.vram}|Connection: {this.connection}";
         }
 
         public new static string[] Prompt()
